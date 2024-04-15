@@ -63,11 +63,11 @@
 		"tall_minmode"			"f0"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"replay/thumbnails/modulatetest"
-		"scaleImage"	"1"	
-		"alpha"			"255"	
-		"drawcolor"			"220 220 220 255"	
-		"drawcolor_minmode"			"237 187 220 255"	
+		"image"			"replay/thumbnails/mod"
+		"scaleImage"	"1"
+		"alpha"			"255"
+		"drawcolor"			"220 220 220 255"
+		"drawcolor_minmode"			"237 187 220 255"
 		"pin_to_sibling"	"ItemEffectMeter"
 	}
 
